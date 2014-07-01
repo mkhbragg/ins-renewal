@@ -1,0 +1,68 @@
+body{
+	background-color: #6c97b9;	
+}
+
+.container theme-showcase{
+	height: 400px;
+	
+	float:center;
+}
+
+.jumbotron{
+	float:center;
+	height:400px;
+	
+	color:none;
+	border: 1px solid #fff;
+}
+
+.form-control{
+	margin: 10px;
+	width: 200px;
+}
+
+.btn-primary {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+}
+
+.form-group{
+	padding-right:100px;
+	width: 50%;
+  margin: 0 auto;
+  float:right;
+}
+
+#header{
+	height:100px;
+	background-color: #6c97b9;
+}
+
+#snoopy{
+padding-left:100px;
+}
+
+div.form-group { 
+	position: relative; 
+	height: 200px; 
+}
+
+table{
+	width:500px;
+	table-layout:fixed;
+}
+
+#login-cell{
+	width:300px;
+}
+
+#logo{
+	float:left;
+	width:200px;
+	height:auto;
+}
+
+.well{
+background-color: #000000;
+}
